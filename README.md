@@ -9,7 +9,7 @@
 - Aspiring cloud person.
 - Automation enthusiast.
 - Beard-haver
-- Possibly just a collection of Python scripts in a trench coat and sunglasses.
+- Possibly just a collection of scripts in a trench coat and sunglasses.
 
 ---
 
