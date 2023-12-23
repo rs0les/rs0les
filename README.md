@@ -5,9 +5,8 @@
 
 ---
 
-- IT admin.
-- Aspiring cloud person.
-- Automation enthusiast.
+- Network Engineer
+- Automation Enthusiast.
 - Beard-haver
 - Possibly just a collection of scripts in a trench coat and sunglasses.
 
@@ -17,8 +16,7 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/azure.svg" alt="Azure logo"/>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" alt="PowerShell logo"/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/cisco.svg" alt="Cisco logo"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="Python logo"/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Bash logo"/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code logo"/>
