@@ -1,12 +1,12 @@
 ### Hello, I'm Richard (he/him).
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-soles/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vosalt.io)
+[![Medium](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://medium.com/@richard.g.soles)
 
 ---
 
 - Network Engineer
-- Automation Enthusiast.
+- NOC
 - Beard-haver
 - Possibly just a collection of scripts in a trench coat and sunglasses.
 
