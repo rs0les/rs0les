@@ -6,7 +6,7 @@
 ---
 
 - Network Engineer
-- NOC
+- NOC person
 - Beard-haver
 - Possibly just a collection of scripts in a trench coat and sunglasses.
 
